@@ -1,8 +1,8 @@
 .s{
     background-color:  #99004d ;
     font-size: 20px;
-    padding: 50px 40px 50px 40px;
-    margin: 10px 40px 10px 40px;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 300px 10px 40px;
     text-align: left;
     font-size:30px;
     border: solid black;
@@ -10,4 +10,10 @@
 }
 .a{
     background-color: #cc3399;
+    padding: 10px;
+    margin: 20px 900px 10px 40px;
+    border-radius: 100px;
+    border:solid black;
+    border-radius:50px;
+    font-size:20px;
 }
