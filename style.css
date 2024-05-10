@@ -1,5 +1,13 @@
 .s{
     background-color:  #99004d ;
     font-size: 20px;
-    padding: 40px 30px 40px 30px;
+    padding: 50px 40px 50px 40px;
+    margin: 10px 40px 10px 40px;
+    text-align: left;
+    font-size:30px;
+    border: solid black;
+    border-radius:20px;
+}
+.a{
+    background-color: #cc3399;
 }
